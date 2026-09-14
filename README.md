@@ -1,2 +1,2 @@
-# Prectice-git
+# Practice-git
 # just for practice
